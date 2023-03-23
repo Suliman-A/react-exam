@@ -14,7 +14,7 @@
 
 ## Solution
 
-- The App component contains the answer for Data Manipulation, the function `transformData` will achieve the expected result by grouping users by Status and to be shown in console.
+- The App component contains the answer for Data Manipulation, the function `transformData` will achieve the expected result by grouping users by status and to be shown in console.
 
 - The Counter component contains a list of issues associated with the given component as well as an improved version using react hooks.
 
